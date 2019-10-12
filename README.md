@@ -1,6 +1,6 @@
 # Express app example
 
-> This application is used as example for my personnal workshops. It uses CodeShip for the CI
+> This application is used as example for my personnal workshops.
 
 ## Getting started
 
