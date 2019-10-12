@@ -5,7 +5,7 @@ const createServer = function() {
   const app = express()
 
   app.get('/', function (req, res) {
-    res.send('Hello World! I have a CI!')
+    res.send('Hello World!')
   })
 
   const server = app.listen(PORT, function() {
